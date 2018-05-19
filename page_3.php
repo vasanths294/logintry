@@ -14,7 +14,7 @@ include "login/misc/pagehead.php";
     <div class="container">
 
         <h2>Page 3</h2>
-        <p>Still here <?=$_SESSION["username"]?>?</p>
+        <p> New Chanage<?=$_SESSION["username"]?>?</p>
 
     </div>
 </body>
