@@ -1,0 +1,14 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.vscode
+.directory
+ehthumbs.db
+Thumbs.db
+/nbproject/private/
+login/vendor*
+login/dbconf.php
+composer.lock
+install/cache
